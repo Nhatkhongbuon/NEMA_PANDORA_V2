@@ -1,0 +1,796 @@
+Removed Member From Class: ClassName=MCU_Nets Member=MISO_LORA
+Removed Member From Class: ClassName=MCU_Nets Member=MOSI_LORA
+Removed Member From Class: ClassName=MCU_Nets Member=RESET_LORA
+Removed Member From Class: ClassName=MCU_Nets Member=RX0
+Removed Member From Class: ClassName=MCU_Nets Member=TX0
+Added Component: Designator=C1(CAP_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/CC0805KRX7R9BB104/302874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP-ALU-SMD-C)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/w%C3%BCrth-elektronik/875105359001/5147580"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "875105359001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size code"; Value = "C"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/murata-electronics/GRM21BR61H106ME43L/10326317"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "GRM21BR61H106ME43L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.34"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP_SMD_0603)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/samsung-electro-mechanics/CL10B104KB8NNNC/3886658"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/murata-electronics/GRM21BR61H106ME43L/10326317"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "GRM21BR61H106ME43L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.34"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/samsung-electro-mechanics/CL21A226MAYNNNE/10479857"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CL21A226MAYNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.25"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/CC0805KRX7R9BB104/302874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/samsung-electro-mechanics/CL21A226MAYNNNE/10479857"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CL21A226MAYNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.25"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP-ALU-SMD-C)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/w%C3%BCrth-elektronik/875105359001/5147580"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "875105359001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size code"; Value = "C"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/samsung-electro-mechanics/CL21A226MAYNNNE/10479857"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CL21A226MAYNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.25"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/CC0805KRX7R9BB104/302874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/samsung-electro-mechanics/CL21A226MAYNNNE/10479857"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CL21A226MAYNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.25"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAP-ALU-SMD-C)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/w%C3%BCrth-elektronik/875105359001/5147580"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "875105359001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size code"; Value = "C"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAP_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/CC0805KRX7R9BB104/302874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAP_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/CC0805KRX7R9BB104/302874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAP_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/CC0805KRX7R9BB104/302874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAP_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/CC0805KRX7R9BB104/302874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAP_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/samsung-electro-mechanics/CL21B105KBFNNNG/3894467"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CL21B105KBFNNNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.11"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAP_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/CC0805KRX7R9BB104/302874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAP_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/CC0805KRX7R9BB104/302874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=C21(CAP_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/CC0805KRX7R9BB104/302874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=C22(CAP_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/CC0805KRX7R9BB104/302874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=C23(CAP_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/CC0805KRX7R9BB104/302874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=C24(CAP_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/CC0805KRX7R9BB104/302874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED-0805-Blue)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/w%C3%BCrth-elektronik/150080BS75000/4489912"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "150080BS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.19"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED-0805-Green)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/w%C3%BCrth-elektronik/150080GS75000/4489915"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "150080GS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.19"; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED-0805-Red)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/w%C3%BCrth-elektronik/150080RS75000/4489918"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "150080RS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.19"; VariantName = "[No Variations]"
+Added Component: Designator=D4(LED-0805-Red)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/w%C3%BCrth-elektronik/150080RS75000/4489918"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "150080RS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.19"; VariantName = "[No Variations]"
+Added Component: Designator=D5(LED-0805-Red)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/w%C3%BCrth-elektronik/150080RS75000/4489918"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "150080RS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.19"; VariantName = "[No Variations]"
+Added Component: Designator=J1(IPEX)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/i-pex/20279-001E-03/22108814"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "I-PEX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "20279-001E-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$1.77"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(JP4_M)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/w%C3%BCrth-elektronik/61300411121/4846827?s=N4IgTCBcDaIGwEYDMAGFAWBWwJAXQF8g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "61300411121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.19"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(JP6_M)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/w%C3%BCrth-elektronik/61300611121/4846833"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "61300611121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.35"; VariantName = "[No Variations]"
+Added Component: Designator=JP3(JP6_M)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/w%C3%BCrth-elektronik/61300611121/4846833"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "61300611121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.35"; VariantName = "[No Variations]"
+Added Component: Designator=JP4(JP6_M)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/w%C3%BCrth-elektronik/61300611121/4846833"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "61300611121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.35"; VariantName = "[No Variations]"
+Added Component: Designator=JP5(JP4_M)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/w%C3%BCrth-elektronik/61300411121/4846827?s=N4IgTCBcDaIGwEYDMAGFAWBWwJAXQF8g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "61300411121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.19"; VariantName = "[No Variations]"
+Added Component: Designator=L1(L_4x4)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/eaton-electronics-division/MPI4020V2-4R7-R/6221102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "MPI4020V2-4R7-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Eaton - Electronics Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$1.47"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT-23-3)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/onsemi/2N7002/244664"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "2N7002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.45"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT-23-3)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/onsemi/2N7002/244664"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "2N7002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.45"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/RC0805FR-0710KL/727535"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0756K2L/728035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0805FR-0756K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/RC0805FR-0710KL/727535"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/RC0805FR-0710KL/727535"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/RC0805FR-0710KL/727535"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/RC0805FR-0710KL/727535"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/RC0805FR-0710KL/727535"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/RC0805FR-0710KL/727535"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R9(NTC_2.54)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/NTCLE203E3103HB0/2230772"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "NTCLE203E3103HB0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Beyschlag/Draloric/BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.13"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/stackpole-electronics-inc/RMCF0805FT330R/1760484"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RMCF0805FT330R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/stackpole-electronics-inc/RMCF0805FT330R/1760484"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RMCF0805FT330R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/RC0805FR-0710KL/727535"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/RC0805FR-071KL/727444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/RC0805FR-071KL/727444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/RC0805FR-071KL/727444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/RC0805FR-071KL/727444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/RC0805FR-07120KL/727576"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0805FR-07120KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/RC0805FR-0710KL/727535"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/vishay-dale/CRCW08054K70FKEAC/7928553"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CRCW08054K70FKEAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/RC0805FR-07120KL/727576"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0805FR-07120KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/RC0805FR-07120KL/727576"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0805FR-07120KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/RC0805FR-071KL/727444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/RC0805FR-0710KL/727535"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/RC0805FR-07120KL/727576"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0805FR-07120KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/stackpole-electronics-inc/RMCF0805FT330R/1760484"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RMCF0805FT330R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0739K2L/727901"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0805FR-0739K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/RC0805FR-0710KL/727535"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R28(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/vishay-dale/CRCW08050000Z0EA/1175125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R29(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/stackpole-electronics-inc/RMCF0805FT330R/1760484"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RMCF0805FT330R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R30(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/stackpole-electronics-inc/RMCF0805FT330R/1760484"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RMCF0805FT330R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RES_SMD_0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/stackpole-electronics-inc/RMCF0805FT330R/1760484"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RMCF0805FT330R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(C&K BUTTON 2P)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/c-k/PTS636-SM43-SMTR-LFS/10071723"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "PTS636 SM43 SMTR LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.19"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(C&K BUTTON 2P)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/c-k/PTS636-SM43-SMTR-LFS/10071723"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "PTS636 SM43 SMTR LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.19"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOT-23-6)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/diodes-incorporated/AP62300WU-7/12324870?s=N4IgTCBcDaIIIAUBsYDMAGdB1AqiAugL5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "AP62300WU-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.46"; VariantName = "[No Variations]"
+Added Component: Designator=U3(ESP32-WROOM-32)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/espressif-systems/ESP32-WROOM-32E-H4/12696413"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "ESP32-WROOM-32E-H4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$2.68"; VariantName = "[No Variations]"
+Added Component: Designator=U4(8 - SOIC)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/texas-instruments/LM358DR/276658"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "LM358DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.41"; VariantName = "[No Variations]"
+Added Component: Designator=U5(SOT-23-3)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/texas-instruments/TL431CDBZR/686858"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "TL431CDBZR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.47"; VariantName = "[No Variations]"
+Added Component: Designator=U6(WS7300-S)
+Add component (AddParameter): Name = "Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "WS7300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lireda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT-223-4)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/texas-instruments/LM1117IMPX-3-3-NOPB/1870906"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "LM1117IMPX-3.3/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$1.14"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=+12V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+12V Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+12V Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+12V Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+5V Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+5V Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=+5V Pin=C8-2
+Added Pin To Net: NetName=+5V Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=+3.3V Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=+3.3V Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=+3.3V Pin=C12-2
+Added Pin To Net: NetName=+3.3V Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=TEMP_OUT Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=TEMP_IN Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=+12V Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=+12V Pin=C17-2
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=+12V Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=+5V Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=+5V Pin=C24-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=LED_RX Pin=D3-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=LED_TX Pin=D4-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=LED_NET Pin=D5-2
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=+12V Pin=JP1-1
+Added Pin To Net: NetName=TX_GPS Pin=JP1-2
+Added Pin To Net: NetName=RX_GPS Pin=JP1-3
+Added Pin To Net: NetName=GND Pin=JP1-4
+Added Pin To Net: NetName=+3.3V Pin=JP2-1
+Added Pin To Net: NetName=GND Pin=JP2-2
+Added Pin To Net: NetName=PIN_13 Pin=JP2-3
+Added Pin To Net: NetName=PIN_12 Pin=JP2-4
+Added Pin To Net: NetName=PIN_11 Pin=JP2-5
+Added Pin To Net: NetName=DIM+ Pin=JP2-6
+Added Pin To Net: NetName=+12V Pin=JP3-1
+Added Pin To Net: NetName=GND Pin=JP3-2
+Added Pin To Net: NetName=TEMP_OUT Pin=JP3-3
+Added Pin To Net: NetName=GND Pin=JP3-4
+Added Pin To Net: NetName=RELAY Pin=JP3-5
+Added Pin To Net: NetName=+3.3V Pin=JP4-1
+Added Pin To Net: NetName=NetJP4_2 Pin=JP4-2
+Added Pin To Net: NetName=NetJP4_3 Pin=JP4-3
+Added Pin To Net: NetName=GND Pin=JP4-4
+Added Pin To Net: NetName=NetJP4_5 Pin=JP4-5
+Added Pin To Net: NetName=NetJP4_6 Pin=JP4-6
+Added Pin To Net: NetName=+5V Pin=JP5-1
+Added Pin To Net: NetName=TX0_LORA Pin=JP5-2
+Added Pin To Net: NetName=RX0_LORA Pin=JP5-3
+Added Pin To Net: NetName=GND Pin=JP5-4
+Added Pin To Net: NetName=NetC1_1 Pin=L1-1
+Added Pin To Net: NetName=+5V Pin=L1-2
+Added Pin To Net: NetName=NetC18_1 Pin=Q1-1
+Added Pin To Net: NetName=DIM+ Pin=Q1-2
+Added Pin To Net: NetName=OUTB  Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=+12V Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=+5V Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetR1_1 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetR2_1 Pin=R4-2
+Added Pin To Net: NetName=PIN_23 Pin=R5-1
+Added Pin To Net: NetName=+12V Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=PIN_23 Pin=R6-2
+Added Pin To Net: NetName=TEMP_OUT Pin=R7-1
+Added Pin To Net: NetName=+3.3V Pin=R7-2
+Added Pin To Net: NetName=TEMP_IN Pin=R8-1
+Added Pin To Net: NetName=+3.3V Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=TEMP_IN Pin=R9-2
+Added Pin To Net: NetName=LED1 Pin=R10-1
+Added Pin To Net: NetName=NetD1_1 Pin=R10-2
+Added Pin To Net: NetName=LED2 Pin=R11-1
+Added Pin To Net: NetName=NetD2_1 Pin=R11-2
+Added Pin To Net: NetName=EN Pin=R12-1
+Added Pin To Net: NetName=+3.3V Pin=R12-2
+Added Pin To Net: NetName=NetJP4_2 Pin=R13-1
+Added Pin To Net: NetName=RX0  Pin=R13-2
+Added Pin To Net: NetName=NetJP4_3 Pin=R14-1
+Added Pin To Net: NetName=TX0  Pin=R14-2
+Added Pin To Net: NetName=NetJP4_6 Pin=R15-1
+Added Pin To Net: NetName=EN Pin=R15-2
+Added Pin To Net: NetName=NetJP4_5 Pin=R16-1
+Added Pin To Net: NetName=PIN_25 Pin=R16-2
+Added Pin To Net: NetName=NetC18_1 Pin=R17-1
+Added Pin To Net: NetName=+12V Pin=R17-2
+Added Pin To Net: NetName=OUTB  Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Pin To Net: NetName=NetC19_2 Pin=R19-1
+Added Pin To Net: NetName=NetQ2_2 Pin=R19-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R20-1
+Added Pin To Net: NetName=NetC20_2 Pin=R20-2
+Added Pin To Net: NetName=NetC20_2 Pin=R21-1
+Added Pin To Net: NetName=NetC21_2 Pin=R21-2
+Added Pin To Net: NetName=PIN_8 Pin=R22-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R22-2
+Added Pin To Net: NetName=GND Pin=R23-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R23-2
+Added Pin To Net: NetName=NetC19_2 Pin=R24-1
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Pin To Net: NetName=+12V Pin=R25-1
+Added Pin To Net: NetName=NetC19_2 Pin=R25-2
+Added Pin To Net: NetName=GND Pin=R26-1
+Added Pin To Net: NetName=NetR24_2 Pin=R26-2
+Added Pin To Net: NetName=BOOT_LORA Pin=R27-1
+Added Pin To Net: NetName=+3.3V Pin=R27-2
+Added Pin To Net: NetName=NetR28_1 Pin=R28-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R28-2
+Added Pin To Net: NetName=+3.3V Pin=R29-1
+Added Pin To Net: NetName=NetD3_1 Pin=R29-2
+Added Pin To Net: NetName=+3.3V Pin=R30-1
+Added Pin To Net: NetName=NetD4_1 Pin=R30-2
+Added Pin To Net: NetName=+3.3V Pin=R31-1
+Added Pin To Net: NetName=NetD5_1 Pin=R31-2
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=RST_LORA Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=BOOT_LORA Pin=SW2-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-2
+Added Pin To Net: NetName=+12V Pin=U1-3
+Added Pin To Net: NetName=NetR2_1 Pin=U1-4
+Added Pin To Net: NetName=NetR1_1 Pin=U1-5
+Added Pin To Net: NetName=NetC1_2 Pin=U1-6
+Added Pin To Net: NetName= GND Pin=U3-1
+Added Pin To Net: NetName=+3.3V Pin=U3-2
+Added Pin To Net: NetName=EN Pin=U3-3
+Added Pin To Net: NetName=TEMP_OUT Pin=U3-4
+Added Pin To Net: NetName=TEMP_IN Pin=U3-5
+Added Pin To Net: NetName=PIN_13 Pin=U3-8
+Added Pin To Net: NetName=RELAY Pin=U3-9
+Added Pin To Net: NetName=BOOT_LORA Pin=U3-10
+Added Pin To Net: NetName=PIN_11 Pin=U3-11
+Added Pin To Net: NetName=PIN_12 Pin=U3-12
+Added Pin To Net: NetName=RX_GPS Pin=U3-13
+Added Pin To Net: NetName=LED2 Pin=U3-14
+Added Pin To Net: NetName= GND Pin=U3-15
+Added Pin To Net: NetName=TX_GPS Pin=U3-16
+Added Pin To Net: NetName=PIN_23 Pin=U3-23
+Added Pin To Net: NetName=PIN_8 Pin=U3-24
+Added Pin To Net: NetName=PIN_25 Pin=U3-25
+Added Pin To Net: NetName=LED1 Pin=U3-29
+Added Pin To Net: NetName=SCK_LORA Pin=U3-30
+Added Pin To Net: NetName=MISO_LORA  Pin=U3-31
+Added Pin To Net: NetName=RX0  Pin=U3-34
+Added Pin To Net: NetName=TX0  Pin=U3-35
+Added Pin To Net: NetName=MOSI_LORA  Pin=U3-36
+Added Pin To Net: NetName=RST_LORA Pin=U3-37
+Added Pin To Net: NetName= GND Pin=U3-38
+Added Pin To Net: NetName= GND Pin=U3-39_1
+Added Pin To Net: NetName= GND Pin=U3-39_2
+Added Pin To Net: NetName= GND Pin=U3-39_3
+Added Pin To Net: NetName= GND Pin=U3-39_4
+Added Pin To Net: NetName= GND Pin=U3-39_5
+Added Pin To Net: NetName= GND Pin=U3-39_6
+Added Pin To Net: NetName= GND Pin=U3-39_7
+Added Pin To Net: NetName= GND Pin=U3-39_8
+Added Pin To Net: NetName= GND Pin=U3-39_9
+Added Pin To Net: NetName= GND Pin=U3-39_10
+Added Pin To Net: NetName= GND Pin=U3-39_11
+Added Pin To Net: NetName= GND Pin=U3-39_12
+Added Pin To Net: NetName= GND Pin=U3-39_13
+Added Pin To Net: NetName= GND Pin=U3-39_14
+Added Pin To Net: NetName= GND Pin=U3-39_15
+Added Pin To Net: NetName= GND Pin=U3-39_16
+Added Pin To Net: NetName= GND Pin=U3-39_17
+Added Pin To Net: NetName= GND Pin=U3-39_18
+Added Pin To Net: NetName= GND Pin=U3-39_19
+Added Pin To Net: NetName= GND Pin=U3-39_20
+Added Pin To Net: NetName= GND Pin=U3-39_21
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=NetC21_2 Pin=U4-5
+Added Pin To Net: NetName=OUTB  Pin=U4-6
+Added Pin To Net: NetName=OUTB  Pin=U4-7
+Added Pin To Net: NetName=+12V Pin=U4-8
+Added Pin To Net: NetName=NetR24_2 Pin=U5-1
+Added Pin To Net: NetName=NetC19_2 Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=NetR28_1 Pin=U6-2
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=BOOT_LORA Pin=U6-6
+Added Pin To Net: NetName=RX0_LORA Pin=U6-7
+Added Pin To Net: NetName=TX0_LORA Pin=U6-8
+Added Pin To Net: NetName=LED_TX Pin=U6-11
+Added Pin To Net: NetName=LED_RX Pin=U6-12
+Added Pin To Net: NetName=RST_LORA Pin=U6-15
+Added Pin To Net: NetName=LED_NET Pin=U6-16
+Added Pin To Net: NetName=+5V Pin=U6-32
+Added Pin To Net: NetName=GND Pin=U6-34
+Added Pin To Net: NetName=GND Pin=U6-35
+Added Pin To Net: NetName=MOSI_LORA  Pin=U6-41
+Added Pin To Net: NetName=MISO_LORA  Pin=U6-42
+Added Pin To Net: NetName=SCK_LORA Pin=U6-43
+Added Pin To Net: NetName=GND Pin=U6-47
+Added Pin To Net: NetName=GND Pin=U6-48
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=+3.3V Pin=U?-2
+Added Pin To Net: NetName=+5V Pin=U?-3
+Added Pin To Net: NetName=+3.3V Pin=U?-4
+Added Member To Class: ClassName=VOLTAGE_REGULATOR Member=Component C1 100nF 50V
+Added Member To Class: ClassName=VOLTAGE_REGULATOR Member=Component C2 10uF 16V
+Added Member To Class: ClassName=VOLTAGE_REGULATOR Member=Component C3 10uF 50V
+Added Member To Class: ClassName=VOLTAGE_REGULATOR Member=Component C4 100nF 50V
+Added Member To Class: ClassName=VOLTAGE_REGULATOR Member=Component C5 10uF 50V
+Added Member To Class: ClassName=VOLTAGE_REGULATOR Member=Component C6 22uF 25V
+Added Member To Class: ClassName=VOLTAGE_REGULATOR Member=Component C7 100nF 50V
+Added Member To Class: ClassName=VOLTAGE_REGULATOR Member=Component C8 22uF 25V
+Added Member To Class: ClassName=VOLTAGE_REGULATOR Member=Component C9 10uF 16V
+Added Member To Class: ClassName=VOLTAGE_REGULATOR Member=Component C10 22uF 25V
+Added Member To Class: ClassName=VOLTAGE_REGULATOR Member=Component C11 100nF 50V
+Added Member To Class: ClassName=VOLTAGE_REGULATOR Member=Component C12 22uF 25V
+Added Member To Class: ClassName=VOLTAGE_REGULATOR Member=Component C13 10uF 16V
+Added Member To Class: ClassName=MCU Member=Component C14 100nF 50V
+Added Member To Class: ClassName=MCU Member=Component C15 100nF 50V
+Added Member To Class: ClassName=DIMMER Member=Component C16 100nF 50V
+Added Member To Class: ClassName=DIMMER Member=Component C17 100nF 50V
+Added Member To Class: ClassName=DIMMER Member=Component C18 1uF 50V
+Added Member To Class: ClassName=DIMMER Member=Component C19 100nF 50V
+Added Member To Class: ClassName=DIMMER Member=Component C20 100nF 50V
+Added Member To Class: ClassName=DIMMER Member=Component C21 100nF 50V
+Added Member To Class: ClassName=DIMMER Member=Component C22 100nF 50V
+Added Member To Class: ClassName=LORA Member=Component C23 100nF 50V
+Added Member To Class: ClassName=LORA Member=Component C24 100nF 50V
+Added Member To Class: ClassName=MCU Member=Component D1 0805 BLUE
+Added Member To Class: ClassName=MCU Member=Component D2 0805 GREEN
+Added Member To Class: ClassName=LORA Member=Component D3 0805 RED
+Added Member To Class: ClassName=LORA Member=Component D4 0805 RED
+Added Member To Class: ClassName=LORA Member=Component D5 0805 RED
+Added Member To Class: ClassName=LORA Member=Component J1 ANTENA_IPEX
+Added Member To Class: ClassName=MCU Member=Component JP1 JP4 2.54mm
+Added Member To Class: ClassName=MCU Member=Component JP2 JP6 2.54mm
+Added Member To Class: ClassName=MCU Member=Component JP3 JP6 2.54mm
+Added Member To Class: ClassName=MCU Member=Component JP4 JP6 2.54mm
+Added Member To Class: ClassName=LORA Member=Component JP5 JP4 2.54mm
+Added Member To Class: ClassName=VOLTAGE_REGULATOR Member=Component L1 4.7uH 2.7A
+Added Member To Class: ClassName=DIMMER Member=Component Q1 2N7002
+Added Member To Class: ClassName=DIMMER Member=Component Q2 2N7002
+Added Member To Class: ClassName=VOLTAGE_REGULATOR Member=Component R1 10K 1%
+Added Member To Class: ClassName=VOLTAGE_REGULATOR Member=Component R2 56.2K 1%
+Added Member To Class: ClassName=VOLTAGE_REGULATOR Member=Component R3 10K 1%
+Added Member To Class: ClassName=VOLTAGE_REGULATOR Member=Component R4 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R5 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R6 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R7 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R8 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R9 10K 3%
+Added Member To Class: ClassName=MCU Member=Component R10 330R 1%
+Added Member To Class: ClassName=MCU Member=Component R11 330R 1%
+Added Member To Class: ClassName=MCU Member=Component R12 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R13 1K 1%
+Added Member To Class: ClassName=MCU Member=Component R14 1K 1%
+Added Member To Class: ClassName=MCU Member=Component R15 1K 1%
+Added Member To Class: ClassName=MCU Member=Component R16 1K 1%
+Added Member To Class: ClassName=DIMMER Member=Component R17 120K 1%
+Added Member To Class: ClassName=DIMMER Member=Component R18 10K 1%
+Added Member To Class: ClassName=DIMMER Member=Component R19 4.7K 1%
+Added Member To Class: ClassName=DIMMER Member=Component R20 120K 1%
+Added Member To Class: ClassName=DIMMER Member=Component R21 120K 1%
+Added Member To Class: ClassName=DIMMER Member=Component R22 1K 1%
+Added Member To Class: ClassName=DIMMER Member=Component R23 10K 1%
+Added Member To Class: ClassName=DIMMER Member=Component R24 120K 1%
+Added Member To Class: ClassName=DIMMER Member=Component R25 330R 1%
+Added Member To Class: ClassName=DIMMER Member=Component R26 39.2K 1%
+Added Member To Class: ClassName=LORA Member=Component R27 10K 1%
+Added Member To Class: ClassName=LORA Member=Component R28 0R
+Added Member To Class: ClassName=LORA Member=Component R29 330R 1%
+Added Member To Class: ClassName=LORA Member=Component R30 330R 1%
+Added Member To Class: ClassName=LORA Member=Component R31 330R 1%
+Added Member To Class: ClassName=LORA Member=Component SW1 TACTILE_2P
+Added Member To Class: ClassName=LORA Member=Component SW2 TACTILE_2P
+Added Member To Class: ClassName=VOLTAGE_REGULATOR Member=Component U1 AP62300WU-7
+Added Member To Class: ClassName=MCU Member=Component U3 ESP32-WROOM-32E-H4
+Added Member To Class: ClassName=DIMMER Member=Component U4 LM358DR
+Added Member To Class: ClassName=DIMMER Member=Component U5 TL431CDBZR
+Added Member To Class: ClassName=LORA Member=Component U6 WS7300
+Added Member To Class: ClassName=VOLTAGE_REGULATOR Member=Component U? LM1117IMPX-3.3
+Added Member To Class: ClassName=MCU_Nets Member=Wire MISO_LORA 
+Added Member To Class: ClassName=MCU_Nets Member=Wire MOSI_LORA 
+Added Member To Class: ClassName=MCU_Nets Member=Wire RST_LORA
+Added Room: Name=DIMMER
+Added Room: Name=LORA
+Added Room: Name=MCU
+Added Room: Name=VOLTAGE_REGULATOR

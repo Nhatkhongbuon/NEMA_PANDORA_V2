@@ -1,0 +1,18 @@
+Change component parameters: Designator = "J1" ("J1"); Footprint = "IPEX"; UniqueID = "\OUMSGUQO" ("\OUMSGUQO")
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/i-pex/20279-001E-03/22108814"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "20279-001E-03"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "I-PEX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$1.77"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "C&K BUTTON 2P"; UniqueID = "\GETBCDRA" ("\GETBCDRA")
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/c-k/PTS636-SM43-SMTR-LFS/10071723"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "PTS636 SM43 SMTR LFS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "C&K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.19"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW2" ("SW2"); Footprint = "C&K BUTTON 2P"; UniqueID = "\XTMXNFZC" ("\XTMXNFZC")
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/c-k/PTS636-SM43-SMTR-LFS/10071723"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "PTS636 SM43 SMTR LFS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "C&K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.19"; VariantName = "[No Variations]"

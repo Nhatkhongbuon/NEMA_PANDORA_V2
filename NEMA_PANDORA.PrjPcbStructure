@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=COVER PAGE.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=COVER PAGE.SchDoc|FileName=DIMMER.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=COVER PAGE.SchDoc|FileName=LORA.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=COVER PAGE.SchDoc|FileName=MCU.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=COVER PAGE.SchDoc|FileName=VOLTAGE_REGULATOR.SchDoc|SheetNumber=2
