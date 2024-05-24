@@ -1,0 +1,32 @@
+Change Component Footprint: Designator=C4 Old Footprint=CAP_SMD_0603 New Footprint=CAP_SMD_0805
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAP_SMD_0603"; UniqueID = "\ZHSWNNCS" ("\ZHSWNNCS")
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/yageo/CC0805KRX7R9BB104/302874"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-15
+Added Pin To Net: NetName=GND Pin=U3-38
+Added Pin To Net: NetName=GND Pin=U3-39_1
+Added Pin To Net: NetName=GND Pin=U3-39_2
+Added Pin To Net: NetName=GND Pin=U3-39_3
+Added Pin To Net: NetName=GND Pin=U3-39_4
+Added Pin To Net: NetName=GND Pin=U3-39_5
+Added Pin To Net: NetName=GND Pin=U3-39_6
+Added Pin To Net: NetName=GND Pin=U3-39_7
+Added Pin To Net: NetName=GND Pin=U3-39_8
+Added Pin To Net: NetName=GND Pin=U3-39_9
+Added Pin To Net: NetName=GND Pin=U3-39_10
+Added Pin To Net: NetName=GND Pin=U3-39_11
+Added Pin To Net: NetName=GND Pin=U3-39_12
+Added Pin To Net: NetName=GND Pin=U3-39_13
+Added Pin To Net: NetName=GND Pin=U3-39_14
+Added Pin To Net: NetName=GND Pin=U3-39_15
+Added Pin To Net: NetName=GND Pin=U3-39_16
+Added Pin To Net: NetName=GND Pin=U3-39_17
+Added Pin To Net: NetName=GND Pin=U3-39_18
+Added Pin To Net: NetName=GND Pin=U3-39_19
+Added Pin To Net: NetName=GND Pin=U3-39_20
+Added Pin To Net: NetName=GND Pin=U3-39_21
+Added Room: Name=VOLTAGE_REGULATOR
